@@ -1,7 +1,7 @@
 {
   "name": "routing-solutions-visualizer",
   "version": "1.0.0",
-  "description": "Visualizador de soluciones de ruteo",
+  "description": "Routing solutions visualizer",
   "author": "hudsonbay",
   "private": true,
   "scripts": {
