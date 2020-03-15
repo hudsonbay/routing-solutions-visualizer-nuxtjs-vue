@@ -1,0 +1,23 @@
+{
+  "name": "routing-solutions-visualizer",
+  "version": "1.0.0",
+  "description": "Visualizador de soluciones de ruteo",
+  "author": "hudsonbay",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "leaflet": "^1.6.0",
+    "moment": "^2.24.0",
+    "nuxt": "^2.0.0",
+    "vue2-leaflet": "^2.4.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
