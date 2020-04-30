@@ -22,9 +22,7 @@ As you can see you start at an imaginary point of origin after you load the JSON
 
 You can also filter your data by days and at the same time only see the stops for the routes:
 
-![Alt text](https://github.com/hudsonbay/routing-solutions-visualizer-nuxtjs-vue/blob/master/assets/screenshots/Screenshot_20200430_171300.png?raw=true "Application UI")
-
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/hudsonbay/routing-solutions-visualizer-nuxtjs-vue/blob/master/assets/screenshots/Screenshot_20200430_171300.png?raw=true "How to filter data")
 
 ## Build Setup
 
