@@ -44,5 +44,3 @@ $ npm run generate
 ### Contact
 
 If you have any doubts or need any help, feel free to contact me to manuelmenendezalfonso@gmail.com
-
-If you liked the project, please give it a star. Nowadays all of these employers wanna see your "work" on Github first. Maybe you'll help me get a job at Umbrella Corporation
